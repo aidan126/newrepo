@@ -9,6 +9,6 @@ function isPrime(number) {
   return true;
 }
 
-let x = 17;
+let x = 25;
 console.log(Math.sqrt(x));
 console.log(isPrime(x));
